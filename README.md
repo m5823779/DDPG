@@ -29,6 +29,7 @@ output will saturate
 
 Following vedio is output
 First is linear velocity, second is angular velocity
+the output is always converge to 0
 
 
 ![image](https://github.com/m5823779/DDPG/blob/master/github3.gif)
