@@ -20,8 +20,15 @@ Following video is my testing result when action dimension = 1 (only control ang
 result is good enough
 ![image](https://github.com/m5823779/DDPG/blob/master/github.gif)
 
+Following video is my testing result when action dimension = 2 (control both linear velocity and angular velocity)
 
+result is quite bad
+output will saturate
 ![image](https://github.com/m5823779/DDPG/blob/master/github2.gif)
+
+
+Following vedio is output
+First is linear velocity, second is angular velocity
 
 
 ![image](https://github.com/m5823779/DDPG/blob/master/github3.gif)
