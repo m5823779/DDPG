@@ -13,9 +13,10 @@ Training env: gazebo
 
 Source code: https://github.com/floodsung/DDPG
 
-Result:
+Testing result:
 
-Following video is when action dimension = 1 (only control angular velocity / linear velocity = o.5 m/s)
+Following video is my testing result when action dimension = 1 (only control angular velocity / linear velocity = o.5 m/s)
+
 result is good enough
 ![image](https://github.com/m5823779/DDPG/blob/master/github.gif)
 
