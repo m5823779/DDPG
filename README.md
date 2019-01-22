@@ -21,10 +21,10 @@ result is good enough
 ![image](https://github.com/m5823779/DDPG/blob/master/github.gif)
 
 
-![image](https://github.com/m5823779/DDPG/blob/master/github.gif)
+![image](https://github.com/m5823779/DDPG/blob/master/github2.gif)
 
 
-![image](https://github.com/m5823779/DDPG/blob/master/github.gif)
+![image](https://github.com/m5823779/DDPG/blob/master/github3.gif)
 
 
 Problem:
