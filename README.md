@@ -23,7 +23,10 @@ Problem:
 When action dimension = 2
 action will be saturate(can't navigation)
 
+
 "Have anyone meet this problem and already solved it?"
+
+
 
 
 reference:
