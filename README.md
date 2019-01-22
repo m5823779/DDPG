@@ -6,7 +6,7 @@ End to End Mobile Robot Navigation using DDPG
 Goal: Let robot(turtlebot) navigate to the target(enter green circle)
 
 Input: 10 laser finding
-Output: 2 action (linear velocity [0~1] / angular velocity [-1~1]) (action_dimension = 2)
+Output: 2 action (linear velocity [0 - 1] / angular velocity [-1 - 1]) (action_dimension = 2)
 
 Algorithm: DDPG (Actor with batch normlization Critic without batch normlization)
 Training env: gazebo
