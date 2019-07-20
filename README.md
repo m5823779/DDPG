@@ -3,6 +3,8 @@
 End to End Mobile Robot Navigation using DDPG 
 (Continuous Control with Deep Reinforcement Learning) based on Tensorflow + Gazebo
 
+(Notice: Stop updating!!! https://github.com/m5823779/MotionPlannerUsingDDPG to view the final version)
+
 Goal: Let robot(turtlebot) navigate to the target(enter green circle)
 
 Input: 10 laser finding
