@@ -1,4 +1,5 @@
-# DDPG
+# DDPG (Notice: Stop updating!!! https://github.com/m5823779/MotionPlannerUsingDDPG to view the final version)
+
 
 End to End Mobile Robot Navigation using DDPG 
 (Continuous Control with Deep Reinforcement Learning) based on Tensorflow + Gazebo
